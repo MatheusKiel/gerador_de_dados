@@ -7,6 +7,6 @@ print(fake.first_name(), fake.last_name())
 
 cpf = geradorcpf.cpf()
 print(cpf)
-# print(geradorcpf.validarcpf(cpf))
+print(geradorcpf.validarcpf(cpf))
 
 

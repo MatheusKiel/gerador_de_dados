@@ -16,8 +16,7 @@ while True:
         tabela, colunas, dados = gd.pessoa()
         cdb.inserir(tabela, colunas, dados)
         
-    elif op == 1:
-        
+    elif op == 1:        
         tabela, colunas, dados = gd.empresa()
         cdb.inserir(tabela, colunas, dados)
     

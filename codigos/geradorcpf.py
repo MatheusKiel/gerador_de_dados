@@ -2,7 +2,7 @@
 import random
 import sys
 
-def cpf():
+def gerarcpf():
 
     nove_digitos = ''
 
